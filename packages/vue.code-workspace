@@ -1,0 +1,10 @@
+{
+	"folders": [
+		{
+			"path": "nestx-vue-scaffold"
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true
+	}
+}
